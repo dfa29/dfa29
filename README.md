@@ -1,7 +1,7 @@
 ## Hey 590! 👋
 
 <p>-A LIS Student Attending Drexel University through online classes
-<br>-Eventually looking for museum employment</p>.
+<br>-Eventually looking for museum employment.</p>
 
 - 🔭 I’m currently working on ... This project for class(?)
 - 🌱 I’m currently learning ... Coding, curation, and cataloguing
